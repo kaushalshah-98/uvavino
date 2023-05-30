@@ -12,10 +12,10 @@ import { convertToQuery } from '~/utils';
 
 export const auctionApi = createApi({
   reducerPath: 'auctionApi',
-  refetchOnMountOrArgChange: 30,
-  // keepUnusedDataFor: 5,
-  refetchOnFocus: true,
-  refetchOnReconnect: true,
+  // refetchOnMountOrArgChange: 30,
+  keepUnusedDataFor: 5,
+  // refetchOnFocus: true,
+  // refetchOnReconnect: true,
   baseQuery: fetchCustomBaseQuery({
     baseUrl: 'https://jsonplaceholder.typicode.com/',
     mock: envVars.mock,

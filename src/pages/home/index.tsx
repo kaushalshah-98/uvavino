@@ -21,10 +21,10 @@ const Home = () => {
       <section>
         <SubHeroSection />
       </section>
-      <section className='py-32 text-center bg-chalk-50'>
+      <section className='pb-32 pt-20 text-center bg-chalk-50'>
         <RecommendationSection />
       </section>
-      <section className='py-32 text-center bg-secondary-50'>
+      <section className='pb-32 pt-20 text-center bg-secondary-50'>
         <NewAuctionSection />
       </section>
       <section className='bg-cover bg-left bg-[url("/images/homepage/barell.png")]'>

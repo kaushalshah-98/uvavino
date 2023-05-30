@@ -49,7 +49,7 @@ export const FeatureSection = () => {
             </Text>
           </div>
           <Button
-            textClass='tracking-[0.9px] text-white'
+            textClass='tracking-[0.9px] text-white uppercase'
             className={cx(
               'w-[12rem] py-1.5 ',
               'border-white border bg-transparent',

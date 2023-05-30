@@ -37,7 +37,7 @@ export const AuctionCard = ({ data }: Props) => {
           )}
         />
       </div>
-      <div className='row-span-2 flex flex-col justify-evenly pt-2 pb-4 px-4'>
+      <div className='row-span-2 flex flex-col items-start justify-evenly pt-2 pb-4 px-5'>
         <Text className='text-lg tracking-[0.9px] font-bold'>{name}</Text>
         <div className='flex items-center'>
           <Icon name='GLOBE' />
@@ -53,7 +53,7 @@ export const AuctionCard = ({ data }: Props) => {
         <Text className='block text-lg tracking-[0.9px] font-bold'>{currentBid}</Text>
         <Text className='block text-sm tracking-[0.84px] opacity-50'>{timestamp}</Text>
 
-        <Button className='mt-6 py-2 rounded max-w-full'>{t('auctions:place_bid')}</Button>
+        <Button className='mt-6 py-3 rounded max-w-full'>{t('auctions:place_bid')}</Button>
       </div>
     </div>
   );
