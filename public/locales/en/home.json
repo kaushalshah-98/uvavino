@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "title": "UK GIN SALES HIT RECORD 80 MILLION BOTTLES.",
+    "subTitle": "UK gin sales in retail stores and online hit a record high of 80 million bottles over the past year, as Covid-19 lockdown measures led to the widespread closure of pubs, bars and restaurants.",
+    "read_article": "Read Complete Article."
+  },
+  "subHero": {
+    "title": "WINE PASS & NFTS",
+    "subTitle": "Wine pass tradability is set to based on NFT trading principals and platforms allowing Wine Pass owners full autonomy and benefits.",
+    "discover": "discover"
+  },
+  "recommended": "RECOMEND FOR YOU",
+  "newest_auctions": "NEWEST AUCTIONS",
+  "features": {
+    "more": "more",
+    "auction": {
+      "text": "AUCTIONS",
+      "description": "Wine Consumption, as wine is not only enjoyed with meals but also as an aperitif"
+    },
+    "trade_cellar": {
+      "text": "TRADE CELLARS",
+      "description": "Wine Consumption, as wine is not only enjoyed with meals but also as an aperitif"
+    },
+    "wine_clubs": {
+      "text": "WINE CLUBS",
+      "description": "Wine Consumption, as wine is not only enjoyed with meals but also as an aperitif"
+    }
+  },
+  "categories": {
+    "text": "Categories",
+    "red_wines": "RED WINES",
+    "white_wines": "WHITE WINES",
+    "desert_wines": "DESERT WINES",
+    "other_wines": "OTHER WINES",
+    "product": "Products",
+    "view_all_items": "VIEW ALL ITEMS"
+  },
+  "articles": {
+    "read_more": "Read more",
+    "latest_articles": "LATEST ARTICLES"
+  }
+}

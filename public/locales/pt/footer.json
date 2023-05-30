@@ -1,0 +1,26 @@
+{
+  "useful": {
+    "text": "LINKS ÚTEIS",
+    "trade_cellars": "Adegas Comerciais",
+    "wine_clubs": "Clubes do vinho",
+    "articles": "Artigos",
+    "auctions": "Leilão"
+  },
+  "more": {
+    "text": "MAIS LINKS",
+    "about_us": "Sobre nós",
+    "contact_us": "Contate-nos",
+    "terms_and_use": "Termos",
+    "privacy_plicy": "política de Privacidade"
+  },
+  "support": {
+    "text": "PARA SUPORTE",
+    "info": "info@winemarketplace.com"
+  },
+  "newsletter": {
+    "text": "ASSINAR NOSSA NEWSLETTER",
+    "description": "Para receber as últimas notícias, atualizações e ofertas especiais."
+  },
+  "subscribe": "se inscrever",
+  "copyright": "Copyright todos os direitos reservados por WineMarket Place"
+}

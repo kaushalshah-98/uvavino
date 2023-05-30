@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "title": "VENDAS DE GIN NO REINO UNIDO ATINGEM RECORDE DE 80 MILHÕES DE GARRAFAS.",
+    "subTitle": "As vendas de gim no Reino Unido em lojas de varejo e online atingiram um recorde de 80 milhões de garrafas no ano passado, já que as medidas de bloqueio do Covid-19 levaram ao fechamento generalizado de pubs, bares e restaurantes.",
+    "read_article": "Leia o artigo completo."
+  },
+  "subHero": {
+    "title": "PASSE DE VINHO",
+    "subTitle": "A negociabilidade do Wine Pass é definida com base nos princípios e plataformas de negociação NFT, permitindo aos proprietários do Wine Pass total autonomia e benefícios.",
+    "discover": "descobrir"
+  },
+  "recommended": "RECOMENDO PARA VOCÊ",
+  "newest_auctions": "LEILÕES MAIS RECENTES",
+  "features": {
+    "more": "mais",
+    "auction": {
+      "text": "LEILÕES",
+      "description": "Consumo de Vinho, uma vez que o vinho não é apreciado apenas às refeições, mas também como aperitivo"
+    },
+    "trade_cellar": {
+      "text": "ADEGAS COMERCIAIS",
+      "description": "Consumo de Vinho, uma vez que o vinho não é apreciado apenas às refeições, mas também como aperitivo"
+    },
+    "wine_clubs": {
+      "text": "CLUBE DO VINHO",
+      "description": "Consumo de Vinho, uma vez que o vinho não é apreciado apenas às refeições, mas também como aperitivo"
+    }
+  },
+  "categories": {
+    "text": "Categorias",
+    "red_wines": "VINHOS TINTOS",
+    "white_wines": "VINHOS BRANCOS",
+    "desert_wines": "VINHOS DO DESERTO",
+    "other_wines": "OUTROS VINHOS",
+    "product": "Produtos",
+    "view_all_items": "VER TODOS OS ITENS"
+  },
+  "articles": {
+    "read_more": "Consulte Mais informação",
+    "latest_articles": "ARTIGOS MAIS RECENTES"
+  }
+}

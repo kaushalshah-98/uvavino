@@ -1,0 +1,76 @@
+{
+  "topMenus": {
+    "articles": "Articles",
+    "about_us": "about us",
+    "contact_us": "contact us",
+    "wishlist": "wishlist",
+    "basket": "basket",
+    "login": "login"
+  },
+  "menus": {
+    "auctions": "auctions",
+    "trade_cellars": "trade cellars",
+    "wine_clubs": "wine clubs",
+    "nfts": "nfts"
+  },
+  "auctions": {
+    "section1": {
+      "text": "TOP SEARCHES",
+      "new_products": "New Products",
+      "suggestions": "suggestions",
+      "port_wines": "Port Wines",
+      "red_wines": "Red Wines",
+      "vintage_wines": "Vintage Wines",
+      "desert_wines": "Dessert Wines",
+      "premium_auction": "Premium Auctions"
+    },
+    "section2": {
+      "text": "CURATOR'S AREA",
+      "new_lots_added": "New Lots Added",
+      "all_lots": "All Lots",
+      "how_to": "How to become a Uvavino curator?"
+    },
+    "section3": {
+      "text": "NEW AUCTION",
+      "description": "Create a auction for single bottle or a bottle collection.",
+      "create_auction": "Create Auction"
+    },
+    "section4": {
+      "text": "AUCTIONS PACKS",
+      "description": "Lorem ipsum dolor sit amet, sadipscing elitr, sed diam.",
+      "buy_packs": "BUY PACKS"
+    }
+  },
+  "trade_cellars": {
+    "section1": {
+      "text": "TRADE CELLARS",
+      "wines": "Wines",
+      "red": "Red",
+      "white": "White",
+      "sparkling": "Sparkling",
+      "port_wine": "Port Wine",
+      "desert": "Desert",
+      "rose": "Rose"
+    },
+    "section2": {
+      "text": "category",
+      "beer": "Beer",
+      "whiskeys": "Whiskeys",
+      "rum": "Rum",
+      "liquors": "Liquors"
+    },
+    "section3": {
+      "text": "STOCK OFF",
+      "description": "Search for stocks"
+    },
+    "section4": {
+      "text": "YOUR CELLAR",
+      "description": "Create a auction for single bottle or a bottle collection.",
+      "add_new_wine": "add new wine"
+    }
+  },
+  "country": "Country",
+  "language": "Language",
+  "confirm": "Confirm",
+  "searchtext": "Write what you are looking for"
+}

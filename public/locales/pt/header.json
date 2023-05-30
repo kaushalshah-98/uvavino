@@ -1,0 +1,76 @@
+{
+  "topMenus": {
+    "articles": "Artigos",
+    "about_us": "sobre nós",
+    "contact_us": "Contate-nos",
+    "wishlist": "Lista de Desejos",
+    "basket": "cesta",
+    "login": "Conecte-se"
+  },
+  "menus": {
+    "auctions": "leilões",
+    "trade_cellars": "adegas comerciais",
+    "wine_clubs": "clubes de vinho",
+    "nfts": "nfts"
+  },
+  "auctions": {
+    "section1": {
+      "text": "PRINCIPAIS PESQUISAS",
+      "new_products": "Novos Produtos",
+      "suggestions": "sugestões",
+      "port_wines": "Vinhos do Porto",
+      "red_wines": "Vinhos Tintos",
+      "vintage_wines": "Vinhos Vintage",
+      "desert_wines": "Vinhos de sobremesa",
+      "premium_auction": "Leilões premium"
+    },
+    "section2": {
+      "text": "ÁREA DA CURADORA",
+      "new_lots_added": "Novos lotes adicionados",
+      "all_lots": "Todos os lotes",
+      "how_to": "Como se tornar um curador Uvavino?"
+    },
+    "section3": {
+      "text": "NOVO LEILÃO",
+      "description": "Crie um leilão para uma garrafa individual ou uma coleção de garrafas.",
+      "create_auction": "Criar Leilão"
+    },
+    "section4": {
+      "text": "PACOTES DE LEILÕES",
+      "description": "Lorem ipsum dolor sit amet, sadipscing elitr, sed diam.",
+      "buy_packs": "COMPRAR PACOTES"
+    }
+  },
+  "trade_cellars": {
+    "section1": {
+      "text": "ADEGAS COMERCIAIS",
+      "wines": "vinhos",
+      "red": "Vermelho",
+      "white": "Branco",
+      "sparkling": "Espumante",
+      "port_wine": "Vinho do Porto",
+      "desert": "Deserto",
+      "rose": "Rosa"
+    },
+    "section2": {
+      "text": "categoria",
+      "beer": "Cerveja",
+      "whiskeys": "Uísques",
+      "rum": "Rum",
+      "liquors": "licores"
+    },
+    "section3": {
+      "text": "DESCONTO",
+      "description": "Pesquisar ações"
+    },
+    "section4": {
+      "text": "SUA ADEGA",
+      "description": "Crie um leilão para uma garrafa individual ou uma coleção de garrafas.",
+      "add_new_wine": "adicione vinho novo"
+    }
+  },
+  "country": "País",
+  "language": "Linguagem",
+  "confirm": "confirme",
+  "searchtext": "Escreva o que você está procurando"
+}

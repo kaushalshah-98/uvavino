@@ -1,0 +1,1 @@
+export { auctionApi } from './api';

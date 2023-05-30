@@ -1,0 +1,26 @@
+{
+  "useful": {
+    "text": "USEFUL LINKS",
+    "trade_cellars": "Trade Cellars",
+    "wine_clubs": "Wine Clubs",
+    "articles": "Articles",
+    "auctions": "Auction"
+  },
+  "more": {
+    "text": "MORE LINKS",
+    "about_us": "About us",
+    "contact_us": "Contact us",
+    "terms_and_use": "Terms & Use",
+    "privacy_plicy": "Privacy Policy"
+  },
+  "support": {
+    "text": "FOR SUPPORT",
+    "info": "info@winemarketplace.com"
+  },
+  "newsletter": {
+    "text": "SUBSCRIBE OUR NEWSLETTER",
+    "description": "To receive latest news, updates and special offers."
+  },
+  "subscribe": "subscribe",
+  "copyright": "Copyright all right reserved by WineMarket Place"
+}

@@ -1,0 +1,47 @@
+/**
+ *
+ * The Tailwind Styles
+ *
+ * Put all styles related to tailwind in this file
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-2xl;
+  }
+  h2 {
+    @apply text-xl;
+  }
+  html {
+    @apply h-full;
+  }
+  body {
+    @apply h-full;
+  }
+  div#__next {
+    @apply h-full;
+  }
+  body * {
+    @apply transition-colors duration-500 ease-in-out;
+  }
+}
+@layer components {
+  .btn {
+    @apply rounded bg-gray-200 px-4 py-6 font-semibold text-black;
+  }
+  .btn-blue {
+    @apply bg-blue-500 text-white hover:bg-blue-700;
+  }
+}
+@layer utilities {
+  .scrolling-touch {
+    -webkit-overflow-scrolling: touch;
+  }
+  .scrolling-auto {
+    -webkit-overflow-scrolling: auto;
+  }
+}
