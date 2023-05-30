@@ -1,5 +1,12 @@
 import { useTranslation } from 'next-i18next';
-import { AuctionCard, AuctionCardSkeleton, Icon, Text } from '~/components';
+import {
+  AuctionCard,
+  AuctionCardSkeleton,
+  Icon,
+  Text,
+  WineCard,
+  WineCardSkeleton,
+} from '~/components';
 import { API } from '~/store/api';
 
 export const Recommendations = () => {
@@ -31,7 +38,7 @@ export const Recommendations = () => {
     return (
       <div className='grid grid-cols-1 xl:grid-cols-4 md:grid-cols-3 gap-y-8 gap-x-8'>
         {[1, 2, 3, 4].map((item) => (
-          <AuctionCardSkeleton key={item} />
+          <WineCardSkeleton key={item} />
         ))}
       </div>
     );
@@ -40,7 +47,7 @@ export const Recommendations = () => {
   return (
     <div className='grid grid-cols-1 xl:grid-cols-4 md:grid-cols-3 gap-y-8 gap-x-8'>
       {data.data.slice(0, 4).map((data) => {
-        return <AuctionCard key={data.name} data={data} />;
+        return <WineCard key={data.name} data={data} />;
       })}
     </div>
   );
@@ -51,7 +58,9 @@ export const RecommendationSection = () => {
 
   return (
     <section className='flex flex-col space-y-16 px-20'>
-      <Text className='text-3xl uppercase tracking-[3.36px]'>{t('home:recommended')}</Text>
+      <Text className='text-3xl justify-center flex uppercase tracking-[3.36px]'>
+        {t('home:recommended')}
+      </Text>
       <Recommendations />
     </section>
   );

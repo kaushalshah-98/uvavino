@@ -35,6 +35,7 @@ export * from './logout';
 export * from './order-complete';
 export * from './orders';
 export * from './plus';
+export * from './red-badge';
 export * from './search';
 export * from './sell';
 export * from './star';

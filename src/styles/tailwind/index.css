@@ -36,6 +36,12 @@
   .btn-blue {
     @apply bg-blue-500 text-white hover:bg-blue-700;
   }
+  .parent {
+  }
+
+  .parent:hover > .child1 {
+    visibility: visible;
+  }
 }
 @layer utilities {
   .scrolling-touch {

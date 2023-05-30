@@ -7,3 +7,5 @@ export * from './AuctionPackTile/AuctionPackTileSkeleton';
 export * from './AuctionTile/AuctionTile';
 export * from './AuctionTile/AuctionTileSkeleton';
 export * from './CategoryCard/CategoryCard';
+export * from './WineCard/WineCard';
+export * from './WineCard/WineCardSkeleton';

@@ -21,7 +21,7 @@ const Home = () => {
       <section>
         <SubHeroSection />
       </section>
-      <section className='pb-32 pt-20 text-center bg-chalk-50'>
+      <section className='pb-32 pt-20 bg-chalk-50'>
         <RecommendationSection />
       </section>
       <section className='pb-32 pt-20 text-center bg-secondary-50'>
